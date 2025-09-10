@@ -30,11 +30,9 @@ Busco estágio/projetos colaborativos para aplicar conceitos de algoritmos, POO 
 - **Jogo 2D (Java)** — aplicação de POO e estruturas de dados.  
 - **ETL simples (Python + Pandas)** — limpeza e análise de dados.
 
-> Dica: coloque links reais dos seus repositórios quando publicar.
-
 ### 📫 Contato
 - LinkedIn: [enzo-henrique-pereira-dos-santos-4109b335a](https://www.linkedin.com/in/enzo-henrique-pereira-dos-santos-4109b335a/)
-- Email: coloque aqui
+- Email: enzohpereira2103@gmail.com
 
 ---
 
